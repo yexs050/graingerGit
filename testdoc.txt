@@ -1,0 +1,2 @@
+#Everett Smallwood is the author of this doc. It was created on October 19, 2016. This is only for testing purposes.#
+This file shows that Git and Github are working and functioning properly.
